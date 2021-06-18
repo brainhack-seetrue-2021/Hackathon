@@ -55,4 +55,16 @@ In the provided Jupyter notebook, we have provided a helper function to generate
   <img src="https://i.ibb.co/4SpsfBP/save-csv.png" width="600" height="800"/>
 </p>
 
+The CSV file and the corresponding Jupyter notebook can then be submitted for scoring via this [link](https://forms.gle/WjdkMUkfZce4hsNy5).
+
+You can check for your submission status and score via the results portal: https://competition.azurewebsites.net/api/score?email={email}
+NOTE: Please replace the placeholder {email} with the email you use during the submission of results.   
+Example: https://competition.azurewebsites.net/api/score?email=abc123@gmail.com  
+  
+<p align="center">
+  <img src="https://i.ibb.co/CW84RC9/See-True-Hackathon-Admin-Brief.png"/>
+</p>
+
+Please refer to the timestamp for the time of submission and the corresponding score of that submission. The submission that is not scored yet but is successfully received will be shown as "Pending" on the Score column. Please be patient and check back again for the updated score if your score is not reflected. Do approach your mentor for help if the score is not showing after an extended period of time.
+
 
