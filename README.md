@@ -34,7 +34,7 @@ The dataset is given in 2 formats:
 Directory structure of dataset:
 
 <p align="center">
-  <img src="https://i.ibb.co/cktRD8g/directory.png" />
+  <img src="https://i.ibb.co/b2q34PX/directory.png" />
 </p>
 
 ## Submission of results
