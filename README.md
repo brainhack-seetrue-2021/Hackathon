@@ -1,10 +1,12 @@
-# DSTA Brainhack SeeTrue 2021 Hackathon
+# DSTA Brainhack SeeTrue 2021 Hackathon  
+
 
 <p align="center">
   <img src="https://www.dsta.gov.sg/images/default-source/brainhack/seetrue-workshop-logo.png" />
-</p>
+</p>  
 
-This is the official code repository of the DSTA Brainhack SeeTrue 2021 Hackathon!
+
+Welcome to the official code repository of the DSTA Brainhack SeeTrue 2021 Hackathon!
 
 ## Getting started
 
@@ -41,7 +43,7 @@ The CSV file should contain the prediction probability per video (i.e. participa
 0 = fake, 1 = real. Participants to submit probability score (0..1), not binary score.
 Please submit in order of video filename (i.e. 00000 to 00789), with header.
 
-e.g. of CSV file
+e.g. of CSV file:
 
 <p align="center">
   <img src="https://i.ibb.co/zFtRmjB/See-True-Hackathon-Admin-Brief.png" />
