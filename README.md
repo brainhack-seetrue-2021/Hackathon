@@ -18,6 +18,8 @@ To get started, open the notebook in Google Colaboratory:
 
 [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HoZog2DuloPXC9X83aGtcHA-sfX8g8Us)
 
+NOTE: Remember to sign in and save a copy of that notebook to your google drive before closing the browser after you are done!
+
 ## Dataset
 
 For this hackathon, you will need to use the dataset that is provided. Please note that usage of external dataset is strictly not allowed in this hackathon!
