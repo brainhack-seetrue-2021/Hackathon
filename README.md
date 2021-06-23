@@ -57,6 +57,8 @@ In the provided Jupyter notebook, we have provided a helper function to generate
   <img src="https://i.ibb.co/4SpsfBP/save-csv.png" width="600" height="800"/>
 </p>
 
+The CSV file and the corresponding Jupyter notebook can then be submitted for scoring via this [link](https://forms.gle/WjdkMUkfZce4hsNy5).
+
 You can check for your submission status and score via the results portal: https://competition.azurewebsites.net/api/score?email={email}
 NOTE: Please replace the placeholder {email} with the email you use during the submission of results.   
 Example: https://competition.azurewebsites.net/api/score?email=abc123@gmail.com  
